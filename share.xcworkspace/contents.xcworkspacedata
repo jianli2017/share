@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/gome/Desktop/&#x5206;&#x4eab;/shareDemo/LJshareDemo.xcodeproj">
+      location = "group:shareDemo/LJshareDemo.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:GMAuthShare/GMAuthShare.xcodeproj">
